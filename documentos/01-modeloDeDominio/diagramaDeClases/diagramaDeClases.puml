@@ -1,6 +1,5 @@
 @startuml
 
-class Enfermera {}
 class Pruebas{}
 class ITB{}
 class Analitica{}
@@ -14,7 +13,6 @@ class Constantes{}
 class Preguntas{}
 
 
-Enfermera -r- Pruebas: controla >
 Pruebas <|--  ITB
 Pruebas <|-- Analitica
 Pruebas <|-- Electrocardiograma
@@ -25,6 +23,5 @@ Analitica <|-- Normal
 Analitica <|-- HBAI
 Retinografia <|-- TipoI
 Retinografia <|-- TipoII
-
 
 @enduml

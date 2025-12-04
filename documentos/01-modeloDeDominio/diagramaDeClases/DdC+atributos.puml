@@ -1,0 +1,49 @@
+@startuml
+
+class Pruebas{
+    - realizada: Boolean
+    - fechaRealizacion: Date
+    - siguienteRealizacion: Date
+    - resultado: String
+    - observaciones: String
+}
+class ITB{}
+class Analitica{}
+class Normal{}
+class HBAI{}
+class Electrocardiograma{}
+class Retinografia{
+    - tipo: String
+}
+class TipoI{}
+class TipoII{
+    - alteraciones : Boolean
+}
+class Constantes{
+    - peso: Float
+    - altura: Float
+    - tensionArterial: 
+    - glucemiaCapilar:
+    - heridas : String
+}
+class Preguntas{
+    - actividadFisica: String
+    - fuma: Boolean
+    - drogas: Boolean
+    - alcohol: Boolean
+    - tomaMedicacionCorrectamente: String
+}
+
+
+Pruebas <|--  ITB
+Pruebas <|-- Analitica
+Pruebas <|-- Electrocardiograma
+Pruebas <|-- Retinografia
+Pruebas <|-- Constantes
+Pruebas <|-- Preguntas
+Analitica <|-- Normal
+Analitica <|-- HBAI
+Retinografia <|-- TipoI
+Retinografia <|-- TipoII
+
+@enduml
