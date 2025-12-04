@@ -1,0 +1,30 @@
+@startuml
+
+class Enfermera {}
+class Pruebas{}
+class ITB{}
+class Analitica{}
+class Normal{}
+class HBAI{}
+class Electrocardiograma{}
+class Retinografia{}
+class TipoI{}
+class TipoII{}
+class Constantes{}
+class Preguntas{}
+
+
+Enfermera -r- Pruebas: controla >
+Pruebas <|--  ITB
+Pruebas <|-- Analitica
+Pruebas <|-- Electrocardiograma
+Pruebas <|-- Retinografia
+Pruebas <|-- Constantes
+Pruebas <|-- Preguntas
+Analitica <|-- Normal
+Analitica <|-- HBAI
+Retinografia <|-- TipoI
+Retinografia <|-- TipoII
+
+
+@enduml
