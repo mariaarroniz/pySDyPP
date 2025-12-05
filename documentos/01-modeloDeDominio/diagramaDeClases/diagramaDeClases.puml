@@ -1,5 +1,6 @@
 @startuml
 
+class Paciente{}
 class Pruebas{}
 class ITB{}
 class Analitica{}
@@ -12,7 +13,7 @@ class TipoII{}
 class Constantes{}
 class Preguntas{}
 
-
+Paciente "1" -- "0..*" Pruebas : tiene >
 Pruebas <|--  ITB
 Pruebas <|-- Analitica
 Pruebas <|-- Electrocardiograma

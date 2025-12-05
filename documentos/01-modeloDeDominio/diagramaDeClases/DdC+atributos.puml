@@ -1,6 +1,19 @@
 @startuml
 
+class Paciente{
+    - id: int
+    - telefono: String
+    - nombre: String
+    - apellidos: String
+    - edad : int
+    - genero: String
+    - fechaNacimiento: Date
+    - tipoDiabetes: String
+    - alteracionesTipoII: Boolean
+
+}
 class Pruebas{
+    - pacienteId: int
     - realizada: Boolean
     - fechaRealizacion: Date
     - siguienteRealizacion: Date
@@ -33,7 +46,7 @@ class Preguntas{
     - tomaMedicacionCorrectamente: String
 }
 
-
+Paciente "1" -- "0..*" Pruebas : tiene >
 Pruebas <|--  ITB
 Pruebas <|-- Analitica
 Pruebas <|-- Electrocardiograma

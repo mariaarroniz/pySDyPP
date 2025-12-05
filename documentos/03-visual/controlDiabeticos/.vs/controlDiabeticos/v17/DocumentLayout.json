@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\controldiabeticos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\controldiabeticos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\controldiabeticos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\controldiabeticos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Prueba.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Prueba.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\Prueba.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Prueba.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\Prueba.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T16:21:07.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Paciente.cs",
               "RelativeDocumentMoniker": "controlDiabeticos\\Models\\Paciente.cs",
               "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Paciente.cs",
               "RelativeToolTip": "controlDiabeticos\\Models\\Paciente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T13:19:47.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "controlDiabeticos",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\controlDiabeticos.csproj",
-              "RelativeDocumentMoniker": "controlDiabeticos\\controlDiabeticos.csproj",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\controlDiabeticos.csproj",
-              "RelativeToolTip": "controlDiabeticos\\controlDiabeticos.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-05T13:15:07.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "controlDiabeticos\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T13:18:02.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\WeatherForecast.cs",
-              "RelativeToolTip": "controlDiabeticos\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T13:16:04.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Program.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Program.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Program.cs",
-              "RelativeToolTip": "controlDiabeticos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T13:15:50.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "controlDiabeticos.http",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\controlDiabeticos.http",
-              "RelativeDocumentMoniker": "controlDiabeticos\\controlDiabeticos.http",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\controlDiabeticos.http",
-              "RelativeToolTip": "controlDiabeticos\\controlDiabeticos.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-12-05T13:15:37.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\appsettings.json",
-              "RelativeDocumentMoniker": "controlDiabeticos\\appsettings.json",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\appsettings.json",
-              "RelativeToolTip": "controlDiabeticos\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-05T13:15:32.607Z",
               "EditorCaption": ""
             }
           ]
