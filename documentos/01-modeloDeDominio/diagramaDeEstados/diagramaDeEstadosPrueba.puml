@@ -1,0 +1,7 @@
+@startuml
+
+[*] --> PrendienteRealizacion
+PrendienteRealizacion --> Realizada : realizar
+PrendienteRealizacion --> PrendienteRealizacion : pedir
+Realizada --> [*] : actualizarResultados
+@enduml

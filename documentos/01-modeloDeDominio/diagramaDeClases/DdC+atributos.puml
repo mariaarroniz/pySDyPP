@@ -4,7 +4,7 @@ class Pruebas{
     - realizada: Boolean
     - fechaRealizacion: Date
     - siguienteRealizacion: Date
-    - resultado: String
+    - resultados: String
     - observaciones: String
 }
 class ITB{}
@@ -22,15 +22,14 @@ class TipoII{
 class Constantes{
     - peso: Float
     - altura: Float
-    - tensionArterial: 
-    - glucemiaCapilar:
-    - heridas : String
+    - tensionArterial: Float
+    - glucemiaCapilar: Float
 }
 class Preguntas{
     - actividadFisica: String
-    - fuma: Boolean
-    - drogas: Boolean
-    - alcohol: Boolean
+    - fuma: String
+    - drogas: String
+    - alcohol: String
     - tomaMedicacionCorrectamente: String
 }
 

@@ -1,0 +1,23 @@
+@startuml
+left to right direction
+actor "Enfermero" as Enfermero
+
+package "Gestionar Pruebas" {
+    usecase pedirPrueba as "pedirPrueba()"
+    usecase realizarPrueba as "realizarPrueba()"
+}
+package "Gestionar Datos de Pruebas" {
+    usecase crearDatos as "crearDatos()"
+    usecase verDatos as "verDatos()"
+    usecase actualizarDatos as "actualizarDatos()"
+    usecase eliminarDatos as "eliminarDatos()"
+}
+
+Enfermero --> pedirPrueba
+Enfermero --> realizarPrueba
+Enfermero --> crearDatos
+Enfermero --> verDatos
+Enfermero --> actualizarDatos
+Enfermero --> eliminarDatos
+
+@enduml
