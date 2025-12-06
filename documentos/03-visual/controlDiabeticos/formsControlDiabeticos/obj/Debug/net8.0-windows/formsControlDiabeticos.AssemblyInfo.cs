@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("formsControlDiabeticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98b47129245ed25dfba6d91adfdd90572e5c62a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90a9f2624a417b9bcab888b5ee2fee49f5acf881")]
 [assembly: System.Reflection.AssemblyProductAttribute("formsControlDiabeticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("formsControlDiabeticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,8 +4,6 @@ class Paciente{}
 class Pruebas{}
 class ITB{}
 class Analitica{}
-class Normal{}
-class HBAI{}
 class Electrocardiograma{}
 class Retinografia{}
 class TipoI{}
@@ -20,8 +18,6 @@ Pruebas <|-- Electrocardiograma
 Pruebas <|-- Retinografia
 Pruebas <|-- Constantes
 Pruebas <|-- Preguntas
-Analitica <|-- Normal
-Analitica <|-- HBAI
 Retinografia <|-- TipoI
 Retinografia <|-- TipoII
 

@@ -13,17 +13,21 @@ class Paciente{
 
 }
 class Pruebas{
-    - pacienteId: int
+    - id : int
+    - tipo: String
     - realizada: Boolean
     - fechaRealizacion: Date
     - siguienteRealizacion: Date
     - resultados: String
     - observaciones: String
+    - estado: String
+    - pacienteId: int
+    - paciente : Paciente
 }
 class ITB{}
-class Analitica{}
-class Normal{}
-class HBAI{}
+class Analitica{
+    - hbaI : Float
+}
 class Electrocardiograma{}
 class Retinografia{
     - tipo: String
@@ -53,8 +57,6 @@ Pruebas <|-- Electrocardiograma
 Pruebas <|-- Retinografia
 Pruebas <|-- Constantes
 Pruebas <|-- Preguntas
-Analitica <|-- Normal
-Analitica <|-- HBAI
 Retinografia <|-- TipoI
 Retinografia <|-- TipoII
 
