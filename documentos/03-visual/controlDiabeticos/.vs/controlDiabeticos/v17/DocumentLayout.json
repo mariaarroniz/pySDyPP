@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\tipoii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\tipoii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\tipoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\tipoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\retinografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\retinografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\analitica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\analitica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\preguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\preguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\electrocardiograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\electrocardiograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\itb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\itb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\controldiabeticos\\controldiabeticos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805A842-9130-41E4-83AA-26F4C8C7908A}|controlDiabeticos\\controlDiabeticos.csproj|solutionrelative:controldiabeticos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,134 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TipoII.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\TipoII.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\TipoII.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\TipoII.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\TipoII.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T11:21:41.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TipoI.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\TipoI.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\TipoI.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\TipoI.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\TipoI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "controlDiabeticos\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "controlDiabeticos\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T11:19:17.446Z",
+              "WhenOpened": "2025-12-07T10:56:19.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Retinografia.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Retinografia.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\Retinografia.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Retinografia.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\Retinografia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "controlDiabeticos\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "controlDiabeticos\\Controllers\\PacientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T16:58:16.002Z",
+              "WhenOpened": "2025-12-06T18:34:54.692Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Analitica.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Analitica.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\Analitica.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Analitica.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\Analitica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T16:49:49.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Electrocardiograma.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Electrocardiograma.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\Electrocardiograma.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Electrocardiograma.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\Electrocardiograma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T16:49:13.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ITB.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\ITB.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\ITB.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\ITB.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\ITB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T16:46:22.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Preguntas.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Preguntas.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\Preguntas.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Preguntas.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\Preguntas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T16:44:45.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Constantes.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Constantes.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\Constantes.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Constantes.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\Constantes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T16:39:10.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Prueba.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Prueba.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\Prueba.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Prueba.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\Prueba.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T16:34:30.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Paciente.cs",
-              "RelativeDocumentMoniker": "controlDiabeticos\\Models\\Paciente.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\controlDiabeticos\\controlDiabeticos\\Models\\Paciente.cs",
-              "RelativeToolTip": "controlDiabeticos\\Models\\Paciente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T13:19:47.038Z"
             }
           ]
         }
