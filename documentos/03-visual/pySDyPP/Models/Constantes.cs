@@ -7,5 +7,12 @@
         public float TensionArterial { get; set; }
         public float glucemiaCapilar { get; set; }
 
+
+        public override void CalcularSiguienteRealizacion()
+        {
+            this.SiguienteRealizacion = this.FechaRealizacion.AddMonths(2);
+            return;
+        }
+
     }
 }

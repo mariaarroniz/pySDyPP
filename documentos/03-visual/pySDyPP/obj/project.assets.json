@@ -1039,11 +1039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\pySDyPP.csproj",
+      "projectUniqueName": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\pySDyPP.csproj",
       "projectName": "pySDyPP",
-      "projectPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\pySDyPP.csproj",
+      "projectPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\pySDyPP.csproj",
       "packagesPath": "C:\\Users\\arron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\obj\\",
+      "outputPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

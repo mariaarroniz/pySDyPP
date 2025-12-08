@@ -28,8 +28,6 @@ namespace pySDyPP.Models
         [Required]
         public string TipoDiabetes { get; set; }
 
-        public bool? AlteracionesTipoII { get; set; }
-
         public virtual ObservableCollectionListSource<Prueba> PruebasRealizadas { get; } = new();
     }
 }

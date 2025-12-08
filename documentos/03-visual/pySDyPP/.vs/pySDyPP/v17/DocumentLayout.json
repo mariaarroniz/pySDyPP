@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\",
+  "WorkspaceRootPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|c:\\users\\arron\\onedrive\\escritorio\\pysdypp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\pysdypp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|c:\\users\\arron\\onedrive\\escritorio\\pysdypp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\pysdypp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|c:\\users\\arron\\onedrive\\escritorio\\pysdypp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|c:\\users\\arron\\onedrive\\escritorio\\uni\\3.tercero\\sistemas distribuidos\\trabajo\\pysdypp\\documentos\\03-visual\\pysdypp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD3E2560-5AC0-4E08-9818-7D37EBF58EDA}|pySDyPP.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,22 +32,22 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wHQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T20:17:54.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T19:32:23.128Z",
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAABYBAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYBAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T19:30:35.396Z",
               "EditorCaption": ""
@@ -70,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\Form1.cs",
+              "ToolTip": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

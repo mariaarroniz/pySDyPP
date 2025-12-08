@@ -7,5 +7,11 @@
         public string Drogas { get; set; }
         public string Alcohol { get; set; }
         public string TomaMedicacionCorectamente { get; set; }
+
+        public override void CalcularSiguienteRealizacion()
+        {
+            this.SiguienteRealizacion = this.FechaRealizacion.AddMonths(2);
+            return;
+        }
     }
 }

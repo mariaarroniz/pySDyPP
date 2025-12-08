@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qggGCNQcfNY=",
+  "dgSpecHash": "eGv2ufAX9L8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\arron\\OneDrive\\Escritorio\\pySDyPP\\pySDyPP.csproj",
+  "projectFilePath": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\pySDyPP\\pySDyPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arron\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.22\\microsoft.data.sqlite.core.8.0.22.nupkg.sha512",
     "C:\\Users\\arron\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.22\\microsoft.entityframeworkcore.8.0.22.nupkg.sha512",

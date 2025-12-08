@@ -16,5 +16,10 @@ namespace pySDyPP.Models
 
         public int PacienteId { get; set; }
         public Paciente Paciente { get; set; }
+
+        public virtual void CalcularSiguienteRealizacion()
+        {
+            return;
+        }
     }
 }
