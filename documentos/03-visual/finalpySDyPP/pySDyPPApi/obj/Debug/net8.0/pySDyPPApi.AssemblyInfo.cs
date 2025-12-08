@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pySDyPPApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49199d1236d90a4d507f0fc0baa404340feba39c")]
 [assembly: System.Reflection.AssemblyProductAttribute("pySDyPPApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pySDyPPApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

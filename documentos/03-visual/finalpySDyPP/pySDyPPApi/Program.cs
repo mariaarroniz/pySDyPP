@@ -14,7 +14,7 @@ namespace pySDyPPapi
 
             builder.Services.AddControllers();
 
-            builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite("Data Source=paciente.db"));
+            builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite("Data Source=C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\finalpySDyPP\\pySDyPPApi\\pySDyPPApiDb.db"));
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arron\\OneDrive\\Escritorio\\finalpySDyPP\\pySDyPPApi\\pySDyPPApi.csproj": {}
+    "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\finalpySDyPP\\pySDyPPApi\\pySDyPPApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arron\\OneDrive\\Escritorio\\finalpySDyPP\\pySDyPPApi\\pySDyPPApi.csproj": {
+    "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\finalpySDyPP\\pySDyPPApi\\pySDyPPApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arron\\OneDrive\\Escritorio\\finalpySDyPP\\pySDyPPApi\\pySDyPPApi.csproj",
+        "projectUniqueName": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\finalpySDyPP\\pySDyPPApi\\pySDyPPApi.csproj",
         "projectName": "pySDyPPApi",
-        "projectPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\finalpySDyPP\\pySDyPPApi\\pySDyPPApi.csproj",
+        "projectPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\finalpySDyPP\\pySDyPPApi\\pySDyPPApi.csproj",
         "packagesPath": "C:\\Users\\arron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\finalpySDyPP\\pySDyPPApi\\obj\\",
+        "outputPath": "C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\finalpySDyPP\\pySDyPPApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
