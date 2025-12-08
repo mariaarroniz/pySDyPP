@@ -1,7 +1,0 @@
-﻿namespace controlDiabeticos.Models
-{
-    public abstract class Retinografia : Prueba
-    {
-        public string Tipo { get; set; }
-    }
-}
