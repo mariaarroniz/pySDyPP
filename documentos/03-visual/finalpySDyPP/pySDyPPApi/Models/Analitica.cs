@@ -4,6 +4,8 @@
     {
         public Boolean Hba1 { get; set; }
 
+        public Analitica() : base() { }
+
         public override void CalcularSiguienteRealizacion()
         {
             if (this.Hba1 == true)

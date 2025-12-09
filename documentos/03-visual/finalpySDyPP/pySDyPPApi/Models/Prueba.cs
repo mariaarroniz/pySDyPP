@@ -3,7 +3,7 @@
     public abstract class Prueba
     {
         public int PruebaId { get; set; }
-        public string Tipo { get; set; }
+        public string Nombre { get; set; }
         public bool Realizada { get; set; }
         public DateTime FechaRealizacion { get; set; }
         public DateTime SiguienteRealizacion { get; set; }
@@ -13,6 +13,8 @@
 
         public int PacienteId { get; set; }
         public Paciente Paciente { get; set; }
+
+        public Prueba() : base() { }
 
         public virtual void CalcularSiguienteRealizacion()
         {

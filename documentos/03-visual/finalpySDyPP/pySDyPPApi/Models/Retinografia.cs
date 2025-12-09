@@ -5,6 +5,8 @@
         public string Tipo { get; set; }
         public bool AlteracionesTipoII { get; set; }
 
+        public Retinografia() : base() { }
+
         public override void CalcularSiguienteRealizacion()
         {
             if (this.Tipo == "TipoI")

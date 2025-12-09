@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Collections.ObjectModel;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 
 namespace pySDyPPApi.Models
 {
@@ -27,6 +28,6 @@ namespace pySDyPPApi.Models
         [Required]
         public string TipoDiabetes { get; set; } = string.Empty;
 
-        public virtual ObservableCollection<Prueba> PruebasRealizadas { get; } = new ObservableCollection<Prueba>();
+        public virtual ObservableCollectionListSource<Prueba> PruebasRealizadas { get; } = new ();
     }
 }

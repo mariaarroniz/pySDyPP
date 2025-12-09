@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "pySDyPPApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\pySDyPPForms\\pySDyPPForms.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

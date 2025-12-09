@@ -2,5 +2,6 @@
 {
     public class ITB : Prueba
     {
+        public ITB() : base() { }
     }
 }

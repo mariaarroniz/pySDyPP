@@ -7,6 +7,7 @@
         public float TensionArterial { get; set; }
         public float glucemiaCapilar { get; set; }
 
+        public Constantes() : base() { }
 
         public override void CalcularSiguienteRealizacion()
         {

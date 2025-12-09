@@ -8,6 +8,7 @@ namespace pySDyPPApi.Data
     public class AppDbContext : DbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+
         public DbSet<Paciente> pacientes { get; set; }
         public DbSet<Prueba> pruebas { get; set; }
         public DbSet<Analitica> pruebasAnalitica { get; set; }
@@ -18,7 +19,8 @@ namespace pySDyPPApi.Data
         public DbSet<Retinografia> pruebasRetinografia { get; set; }
 
 
-
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        => optionsBuilder.UseSqlite("Data Source=C:\\Users\\arron\\OneDrive\\Escritorio\\uni\\3.Tercero\\Sistemas distribuidos\\TRABAJO\\pySDyPP\\documentos\\03-visual\\finalpySDyPP\\pySDyPPApi\\pySDyPPApiDb.db");
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Paciente>().HasData(
@@ -100,7 +102,7 @@ namespace pySDyPPApi.Data
                 new Analitica
                 {
                     PruebaId = 1,
-                    Tipo = "Analitica",
+                    Nombre = "Analitica",
                     Realizada = true,
                     FechaRealizacion = DateTime.Now.AddDays(-15),
                     SiguienteRealizacion = DateTime.Now.AddMonths(6),
@@ -113,7 +115,7 @@ namespace pySDyPPApi.Data
                 new Analitica
                 {
                     PruebaId = 2,
-                    Tipo = "Analitica",
+                    Nombre = "Analitica",
                     Realizada = false,
                     FechaRealizacion = DateTime.MinValue,
                     SiguienteRealizacion = DateTime.Now.AddMonths(12),
@@ -129,7 +131,7 @@ namespace pySDyPPApi.Data
                 new Constantes
                 {
                     PruebaId = 3,
-                    Tipo = "Constantes",
+                    Nombre = "Constantes",
                     Realizada = true,
                     FechaRealizacion = DateTime.Now.AddDays(-5),
                     SiguienteRealizacion = DateTime.Now.AddMonths(3),
@@ -145,7 +147,7 @@ namespace pySDyPPApi.Data
                 new Constantes
                 {
                     PruebaId = 4,
-                    Tipo = "Constantes",
+                    Nombre = "Constantes",
                     Realizada = true,
                     FechaRealizacion = DateTime.Now.AddDays(-1),
                     SiguienteRealizacion = DateTime.Now.AddMonths(3),
@@ -164,7 +166,7 @@ namespace pySDyPPApi.Data
                 new Preguntas
                 {
                     PruebaId = 5,
-                    Tipo = "Preguntas",
+                    Nombre = "Preguntas",
                     Realizada = true,
                     FechaRealizacion = DateTime.Now.AddDays(-20),
                     SiguienteRealizacion = DateTime.Now.AddYears(1),
@@ -184,7 +186,7 @@ namespace pySDyPPApi.Data
                 new Electrocardiograma
                 {
                     PruebaId = 7,
-                    Tipo = "Electrocardiograma",
+                    Nombre = "Electrocardiograma",
                     Realizada = true,
                     FechaRealizacion = DateTime.Now.AddDays(-30),
                     SiguienteRealizacion = DateTime.Now.AddYears(1),
@@ -194,6 +196,15 @@ namespace pySDyPPApi.Data
                     PacienteId = 3
                 }
             );
+
+            modelBuilder.Entity<Prueba>()
+                .HasDiscriminator<string>("NombrePrueba");
+
+            modelBuilder.Entity<Paciente>()
+                .HasMany(p => p.PruebasRealizadas)
+                .WithOne(t => t.Paciente)
+                .HasForeignKey(t => t.PacienteId);
+
 
             base.OnModelCreating(modelBuilder);
         }

@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using pySDyPPApi.Data;
 
@@ -10,9 +11,11 @@ using pySDyPPApi.Data;
 namespace pySDyPPApi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20251209094101_SeedDataFinal")]
+    partial class SeedDataFinal
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.22");
@@ -139,15 +142,16 @@ namespace pySDyPPApi.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasMaxLength(21)
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("Estado")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<DateTime>("FechaRealizacion")
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("Nombre")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Observaciones")
@@ -167,9 +171,8 @@ namespace pySDyPPApi.Migrations
                     b.Property<DateTime>("SiguienteRealizacion")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("TipoPrueba")
+                    b.Property<string>("Tipo")
                         .IsRequired()
-                        .HasMaxLength(21)
                         .HasColumnType("TEXT");
 
                     b.HasKey("PruebaId");
@@ -178,7 +181,7 @@ namespace pySDyPPApi.Migrations
 
                     b.ToTable("pruebas");
 
-                    b.HasDiscriminator<string>("TipoPrueba").HasValue("Prueba");
+                    b.HasDiscriminator().HasValue("Prueba");
 
                     b.UseTphMappingStrategy();
                 });
@@ -197,13 +200,13 @@ namespace pySDyPPApi.Migrations
                         {
                             PruebaId = 1,
                             Estado = "Realizada",
-                            FechaRealizacion = new DateTime(2025, 11, 24, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(6918),
-                            Nombre = "Analitica",
+                            FechaRealizacion = new DateTime(2025, 11, 24, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3428),
                             Observaciones = "Perfil lipídico ok.",
                             PacienteId = 1,
                             Realizada = true,
                             Resultado = "Normal",
-                            SiguienteRealizacion = new DateTime(2026, 6, 9, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(6968),
+                            SiguienteRealizacion = new DateTime(2026, 6, 9, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3477),
+                            Tipo = "Analitica",
                             Hba1 = true
                         },
                         new
@@ -211,12 +214,12 @@ namespace pySDyPPApi.Migrations
                             PruebaId = 2,
                             Estado = "Pendiente",
                             FechaRealizacion = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Nombre = "Analitica",
                             Observaciones = "Programar cita.",
                             PacienteId = 3,
                             Realizada = false,
                             Resultado = "Pendiente",
-                            SiguienteRealizacion = new DateTime(2026, 12, 9, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(6973),
+                            SiguienteRealizacion = new DateTime(2026, 12, 9, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3483),
+                            Tipo = "Analitica",
                             Hba1 = false
                         });
                 });
@@ -244,13 +247,13 @@ namespace pySDyPPApi.Migrations
                         {
                             PruebaId = 3,
                             Estado = "Realizada",
-                            FechaRealizacion = new DateTime(2025, 12, 4, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(6989),
-                            Nombre = "Constantes",
+                            FechaRealizacion = new DateTime(2025, 12, 4, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3504),
                             Observaciones = "Tensión y glucemia estables.",
                             PacienteId = 1,
                             Realizada = true,
                             Resultado = "Óptimo",
-                            SiguienteRealizacion = new DateTime(2026, 3, 9, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(6990),
+                            SiguienteRealizacion = new DateTime(2026, 3, 9, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3505),
+                            Tipo = "Constantes",
                             Altura = 1.7f,
                             Peso = 65.5f,
                             TensionArterial = 120.8f,
@@ -260,13 +263,13 @@ namespace pySDyPPApi.Migrations
                         {
                             PruebaId = 4,
                             Estado = "Realizada",
-                            FechaRealizacion = new DateTime(2025, 12, 8, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(6994),
-                            Nombre = "Constantes",
+                            FechaRealizacion = new DateTime(2025, 12, 8, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3510),
                             Observaciones = "Tensión ligeramente alta.",
                             PacienteId = 3,
                             Realizada = true,
                             Resultado = "Límite",
-                            SiguienteRealizacion = new DateTime(2026, 3, 9, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(6995),
+                            SiguienteRealizacion = new DateTime(2026, 3, 9, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3511),
+                            Tipo = "Constantes",
                             Altura = 1.82f,
                             Peso = 88f,
                             TensionArterial = 140.95f,
@@ -285,13 +288,13 @@ namespace pySDyPPApi.Migrations
                         {
                             PruebaId = 7,
                             Estado = "Realizada",
-                            FechaRealizacion = new DateTime(2025, 11, 9, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(7027),
-                            Nombre = "Electrocardiograma",
+                            FechaRealizacion = new DateTime(2025, 11, 9, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3549),
                             Observaciones = "Sin alteraciones relevantes.",
                             PacienteId = 3,
                             Realizada = true,
                             Resultado = "Normal",
-                            SiguienteRealizacion = new DateTime(2026, 12, 9, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(7028)
+                            SiguienteRealizacion = new DateTime(2026, 12, 9, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3550),
+                            Tipo = "Electrocardiograma"
                         });
                 });
 
@@ -333,13 +336,13 @@ namespace pySDyPPApi.Migrations
                         {
                             PruebaId = 5,
                             Estado = "Realizada",
-                            FechaRealizacion = new DateTime(2025, 11, 19, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(7010),
-                            Nombre = "Preguntas",
+                            FechaRealizacion = new DateTime(2025, 11, 19, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3527),
                             Observaciones = "Estilo de vida activo.",
                             PacienteId = 1,
                             Realizada = true,
                             Resultado = "Bajo riesgo",
-                            SiguienteRealizacion = new DateTime(2026, 12, 9, 19, 18, 52, 456, DateTimeKind.Local).AddTicks(7011),
+                            SiguienteRealizacion = new DateTime(2026, 12, 9, 10, 41, 0, 876, DateTimeKind.Local).AddTicks(3528),
+                            Tipo = "Preguntas",
                             ActividadFisica = "Regular",
                             Alcohol = "Ocasional",
                             Drogas = "No",
@@ -354,10 +357,6 @@ namespace pySDyPPApi.Migrations
 
                     b.Property<bool>("AlteracionesTipoII")
                         .HasColumnType("INTEGER");
-
-                    b.Property<string>("Tipo")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
 
                     b.HasDiscriminator().HasValue("Retinografia");
                 });
